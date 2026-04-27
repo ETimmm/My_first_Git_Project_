@@ -21,3 +21,5 @@
 - ssh key: A way to securely connect to a remote computer/location/server. We add it to GitHub in the setting for ssh key
 
 - How to create an empty remote repository from Github: add a new repsitory on github, give it a nice name . dont add any files. follow the instructions to connect with the local 
+
+- creating the bridge between local and remote Github repository by using command. Do this only when you have a new project/repository
