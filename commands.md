@@ -17,3 +17,10 @@ adding to local repository
 bridging between local and remote location
 
 `git remote add origin https://github.com/ETimmm/My_first_Git_Project_.git`
+
+note: problems with authentication were solved by creating a new ssh key (removed the previous one)
+
+Sync commands
+
+`git pull`
+`git push`
