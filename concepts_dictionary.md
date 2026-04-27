@@ -10,7 +10,7 @@
 
 1. Developing area: My folder where I will develop my project.
 
-2.
+2. Staging area
 
 3. Local repository: my .git file where git software is managing all the versions I commit to.
 
