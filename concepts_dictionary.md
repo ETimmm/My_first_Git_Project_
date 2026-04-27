@@ -13,3 +13,5 @@
 2.
 
 3. Local repository: my .git file where git software is managing all the versions I commit to.
+
+4. An explenantion is mandatory when committing.
