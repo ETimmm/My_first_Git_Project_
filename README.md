@@ -11,3 +11,8 @@
 - create ssh key for each computer
 - create empty remote repository on Github
 - create bridge between local and remote repository
+
+3. working in a repository
+
+- go to repository/file and edit (pen icon) and commit changes 
+- git pull to see changes in the vscode terminal
