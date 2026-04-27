@@ -24,4 +24,4 @@
 
 - creating the bridge between local and remote Github repository by using command. Do this only when you have a new project/repository
 
-- i should always sync the changes. Git push when you want to put everything that is committed online. Git pull when you want to retrieve changes from online to local folder.
+- i should always sync the changes. Git push when you want to put everything that is committed online. Git pull when you want to retrieve changes from online to local folder. So when youstart working locally always start with git pull (in case update happend by collaborator)
