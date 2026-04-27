@@ -23,3 +23,5 @@
 - How to create an empty remote repository from Github: add a new repsitory on github, give it a nice name . dont add any files. follow the instructions to connect with the local 
 
 - creating the bridge between local and remote Github repository by using command. Do this only when you have a new project/repository
+
+- i should always sync the changes. Git push when you want to put everything that is committed online. Git pull when you want to retrieve changes from online to local folder.
