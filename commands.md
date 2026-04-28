@@ -75,7 +75,8 @@ how to change a branch name
 
 `git branch -m <new_name>`
 
-check what collaborator did to my project:
+# check what collaborator did to my project:
+
 `git pull`
 `git branch -a`
 
@@ -83,7 +84,7 @@ will see only main branch wzs pulled. You also have to pull xx_colab branch:
 
 `git checkout xx_colab`
 
-  ## merging branches
+  # merging branches
   
   
   `git merge <branch_name>`   for example a bug fix is done in a branch    branch keeps existing, including the history log , also after merge, including the overlapping timepoints
@@ -99,3 +100,8 @@ to get a list of the local branches
 
  `git branch --list`
 
+# go back to old commit and start branch from there: 
+`git checkout <commit_ID>`
+
+or use git switch, thats when you are typing and actually want to change to a new branch and link it to main
+`git switch -c <new branch name>` 
