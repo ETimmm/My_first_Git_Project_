@@ -24,3 +24,5 @@ Sync commands
 
 `git pull`
 `git push`
+
+line to revert
