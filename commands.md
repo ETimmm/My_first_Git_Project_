@@ -55,3 +55,4 @@ move into the branch
 `git checkout <branch_name>`
 
  not branch_name = name of branch you want to go to
+ lets get in trouble
