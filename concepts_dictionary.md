@@ -36,3 +36,7 @@ Make sure to give it a name
 
 All collaborators should work in his own branch, not in the main.
 The best solutions goes to the main branch.
+
+# TAGGING and RELEASES
+
+Tagging = Highlight good versions (commits /states) => special name or version name for a point in time that is important to you = TAG, for example a spot which is good, and you can go back to later easily

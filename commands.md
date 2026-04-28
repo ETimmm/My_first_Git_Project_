@@ -107,4 +107,14 @@ to get a list of the local branches
 or use git switch, thats when you are typing and actually want to change to a new branch and link it to main
 `git switch -c <new branch name>` 
 
-hello testing
+## Tagging
+`git tag <name>`
+`git tag -l`
+`git tag <name> commit_ID`   : tag an old commit
+
+to commit to GitHub, push is not enough to have the tags there....
+
+`git push --tags`
+
+use tag in checkout
+`git checkout <tag>`
