@@ -46,15 +46,20 @@ delete the bridge from local to remote, list bridge first using git remote (abov
 
 `git remote remove <name>`
 
-create a branch
+## creating branches
 
-`git branch <name>`
+create the name of the branch and move into the branch:
 
-move into the branch
+```
+git branch <branch_name>
+git checkout <branch_name>
+```
+(=multiline code)
 
-`git checkout <branch_name>`
- 
- note branch_name = name of branch you want to go to
+or in one line
+
+`git checkout -b <branch_name>`
+
 
  to go back to main, git status can be used to see in what timeline you are
 
@@ -86,4 +91,11 @@ will see only main branch wzs pulled. You also have to pull xx_colab branch:
   When there are too many branches: clean up = > delete the branch after the merge
   
   `git branch -d <branch_name>`
+
+
+ note: branch_name = name of branch you want to go to
+
+to get a list of the local branches
+
+ `git branch --list`
 
