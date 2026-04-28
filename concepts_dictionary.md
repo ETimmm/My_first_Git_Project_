@@ -42,4 +42,4 @@ WHen creating a loose head, you can create branch name and connect it to the tre
 # TAGGING and RELEASES
 
 Tagging = Highlight good versions (commits /states) => special name or version name for a point in time that is important to you = TAG, for example a spot which is good, and you can go back to later easily
-new change on concepts
+new change on concepts 2
