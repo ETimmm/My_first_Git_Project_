@@ -55,7 +55,8 @@ move into the branch
 `git checkout <branch_name>`
 
  not branch_name = name of branch you want to go to
-DD--> I am changing something to induced a conflict
- lets get in trouble
+ lets get in trouble again
 
-Let's make trouble again.
+
+ lets get in toruble again-
+ llml
