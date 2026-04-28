@@ -22,3 +22,7 @@
 - might want to clone repository
 - use revert a commit
 - fix a conflict by going throug HEAD ...==== and conflicted text. git add and git commit after
+
+5. branching
+
+mirror effect - not sure
