@@ -33,3 +33,15 @@ revert command when you have a wrong commit
 cloning an existing repository - including the bridge
 
 `git clone`
+
+rewrite last commit message
+
+`git commit -amend`
+
+list the name of the bridge
+
+`git remote`
+
+delete the bridge from local to remote, list bridge first using git remote (above)
+
+`git remote remove <name>`
