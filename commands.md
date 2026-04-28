@@ -59,3 +59,11 @@ move into the branch
 how to change a branch name 
 
 `git branch -m <new_name>`
+
+check what collaborator did to my project:
+`git pull`
+`git branch -a`
+
+will see only main branch wzs pulled. You also have to pull xx_colab branch:
+
+`git checkout xx_colab`
