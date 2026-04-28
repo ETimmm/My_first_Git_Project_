@@ -1,6 +1,6 @@
 # Dictionary of concepts
 
-# Differentiating
+## Differentiating
 
 - Git: Software/tool to track changes in files and folders
 
@@ -16,7 +16,7 @@
 
 4. An explenantion is mandatory when committing.
 
-# From local to remote 
+## From local to remote 
 
 - ssh key: A way to securely connect to a remote computer/location/server. We add it to GitHub in the setting for ssh key
 
