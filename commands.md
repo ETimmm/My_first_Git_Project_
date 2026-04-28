@@ -25,4 +25,8 @@ Sync commands
 `git pull`
 `git push`
 
-line to revert
+revert command when you have a wrong commit
+
+`git revert`
+
+test
