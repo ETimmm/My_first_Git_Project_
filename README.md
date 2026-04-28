@@ -22,3 +22,8 @@
 - might want to clone repository
 - use revert a commit
 - fix a conflict by going throug HEAD ...==== and conflicted text. git add and git commit after
+
+5. branching
+
+mirror effect -  don’t know exactly how to explain it….  Like in back to the future....
+All virtual realities exist at the same time - parallel timelines- folder also is changing, only reflecting one reality at the time , the reality you checked into
