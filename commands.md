@@ -94,6 +94,7 @@ will see only main branch wzs pulled. You also have to pull xx_colab branch:
   `git branch -d <branch_name>`
 
 
+
  note: branch_name = name of branch you want to go to
 
 to get a list of the local branches
@@ -105,3 +106,5 @@ to get a list of the local branches
 
 or use git switch, thats when you are typing and actually want to change to a new branch and link it to main
 `git switch -c <new branch name>` 
+
+hello testing
