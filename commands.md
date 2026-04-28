@@ -45,3 +45,13 @@ list the name of the bridge
 delete the bridge from local to remote, list bridge first using git remote (above)
 
 `git remote remove <name>`
+
+create a branch
+
+`git branch <name>`
+
+move into the branch
+
+`git checkout <branch_name>`
+
+ not branch_name = name of branch you want to go to

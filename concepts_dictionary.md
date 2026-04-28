@@ -27,3 +27,12 @@
 - i should always sync the changes. Git push when you want to put everything that is committed online. Git pull when you want to retrieve changes from online to local folder. So when youstart working locally always start with git pull (in case update happend by collaborator)
 
 - in case you want to get a new repository/when your repository went bad/empty, use git clone to retrieve from the remote github loacation
+
+## Branching
+
+A branch is an Alternative history, with at least 1 shaired point (commit) in time with the main, to test different possible solutions to the problem.
+A branch has an independent history (log)
+Make sure to give it a name
+
+All collaborators should work in his own branch, not in the main.
+The best solutions goes to the main branch.
