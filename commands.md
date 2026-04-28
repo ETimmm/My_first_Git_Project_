@@ -66,3 +66,13 @@ move into the branch
 
 
   `git push --set-upstream origin branches_concept`
+
+
+  ## merging branches
+  
+  
+  `git merge <branch_name>`   for example a bug fix is done in a branch    branch keeps existing, including the history log , also after merge, including the overlapping timepoints
+  
+  When there are too many branches: clean up = > delete the branch after the merge
+  
+  `git branch -d <branch_name>`
