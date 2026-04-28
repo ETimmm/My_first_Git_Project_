@@ -63,7 +63,7 @@ or in one line
 
 
  note: branch_name = name of branch you want to go to
-`
+
 to get a list of the local branches
 
  `git branch --list`
