@@ -55,3 +55,7 @@ move into the branch
 `git checkout <branch_name>`
 
  not branch_name = name of branch you want to go to
+
+ `git checkout main`
+
+ to go back to main, git status can be used to see in what timeline you are
