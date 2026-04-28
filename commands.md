@@ -46,12 +46,20 @@ delete the bridge from local to remote, list bridge first using git remote (abov
 
 `git remote remove <name>`
 
-create a branch
+## creating branches
 
-`git branch <name>`
+create the name of the branch and move into the branch
 
-move into the branch
+```
+git branch <branch_name>
 
-`git checkout <branch_name>`
+git checkout <branch_name>
+```
+(=multiline code)
 
- not branch_name = name of branch you want to go to
+or in one line
+
+`git checkout -b <branch_name>`
+
+
+ note: branch_name = name of branch you want to go to
