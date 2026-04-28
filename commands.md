@@ -29,4 +29,4 @@ revert command when you have a wrong commit
 
 `git revert`
 
-test
+text to revert
