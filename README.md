@@ -28,4 +28,4 @@
 mirror effect -  don’t know exactly how to explain it….  Like in back to the future....
 All virtual realities exist at the same time - parallel timelines- folder also is changing, only reflecting one reality at the time , the reality you checked into
 
-new file change 
+new file change 2
