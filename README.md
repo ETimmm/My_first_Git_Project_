@@ -16,3 +16,9 @@
 
 - go to repository/file and edit (pen icon) and commit changes 
 - git pull to see changes in the vscode terminal
+
+4. Problem solving
+
+- might want to clone repository
+- use revert a commit
+- fix a conflict by going throug HEAD ...==== and conflicted text. git add and git commit after
