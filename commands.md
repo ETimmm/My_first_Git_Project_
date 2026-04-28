@@ -53,10 +53,25 @@ create a branch
 move into the branch
 
 `git checkout <branch_name>`
+ 
+ note branch_name = name of branch you want to go to
 
- not branch_name = name of branch you want to go to
- lets get in trouble again
+ to go back to main, git status can be used to see in what timeline you are
+
+  `git checkout main`
+
+  to create the online branch also first, before you can start pushing your new branch
 
 
- lets get in toruble again-
- llml
+  `git push --set-upstream origin branches_concept`
+
+
+  ## merging branches
+  
+  
+  `git merge <branch_name>`   for example a bug fix is done in a branch    branch keeps existing, including the history log , also after merge, including the overlapping timepoints
+  
+  When there are too many branches: clean up = > delete the branch after the merge
+  
+  `git branch -d <branch_name>`
+
