@@ -54,8 +54,15 @@ move into the branch
 
 `git checkout <branch_name>`
 
- not branch_name = name of branch you want to go to
+ note branch_name = name of branch you want to go to
 
- `git checkout main`
+
 
  to go back to main, git status can be used to see in what timeline you are
+
+  `git checkout main`
+
+  to create the online branch also first, before you can start pushing your new branch
+
+
+  `git push --set-upstream origin branches_concept`
