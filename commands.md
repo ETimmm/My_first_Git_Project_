@@ -25,12 +25,11 @@ Sync commands
 `git pull`
 `git push`
 
-<<<<<<< HEAD
+
 revert command when you have a wrong commit
 
 `git revert`
 
-text to revert
-=======
-line to revert
->>>>>>> parent of b66a108 (added git revert in commmands text)
+cloning an existing repository - including the bridge
+
+`git clone`
